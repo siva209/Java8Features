@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"com.java8features","l":"MainLambdaExpressionjava8"}];updateSearchResults();

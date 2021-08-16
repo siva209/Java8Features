@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.java8features","c":"MainLambdaExpressionjava8","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"com.java8features","c":"MainLambdaExpressionjava8","l":"MainLambdaExpressionjava8()","u":"%3Cinit%3E()"}];updateSearchResults();
